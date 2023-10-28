@@ -10,10 +10,12 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
+    <!--블로그-->
     <a href="https://easyhomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
+    <!--노션-->
+    <a href="[https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741](https://www.notion.so/c176868d7fb9485c96993b470e3bb8fa?pvs=4)">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   

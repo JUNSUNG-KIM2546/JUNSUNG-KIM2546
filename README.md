@@ -24,10 +24,10 @@
 
 ## 📒 Projects 📒
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/junnnmo3o/">
+    <a href="https://github.com/yeowon2/BBGG_prj">
         <img src="https://img.shields.io/badge/Project_BBGG-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
-    <a href="mailto:junnnmo3o@gmail.com">
+    <a href="https://github.com/JUNSUNG-KIM2546/ItNang">
         <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
 </div><br>

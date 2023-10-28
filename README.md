@@ -2,10 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNSUNG-KIM2546&count_bg=%23216929&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
 
-[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNSUNG-KIM2546&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/JUNSUNG-KIM2546/github-readme-stats)
  
 <br>
 
@@ -60,6 +60,7 @@
     <br>
 </div><br>
 </div>
+
 
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNSUNG-KIM2546&show_icons=true&theme=radical)

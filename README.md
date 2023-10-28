@@ -22,6 +22,15 @@
 <!--[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)-->
 </div><br>
 
+## 📒 Projects 📒
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/junnnmo3o/">
+        <img src="https://img.shields.io/badge/Project_BBGG-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+    </a>
+    <a href="mailto:junnnmo3o@gmail.com">
+        <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+    </a>
+</div><br>
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">

@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNSUNG-KIM2546&show_icons=true&theme=radical)
 <br>
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNSUNG-KIM2546&layout=compact)](https://github.com/JUNSUNG-KIM2546/github-readme-stats)
+###- #[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNSUNG-KIM2546&layout=compact)](https://github.com/JUNSUNG-KIM2546/github-readme-stats) ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNSUNG-KIM2546&langs_count=8)](https://github.com/JUNSUNG-KIM2546/github-readme-stats)
 <!--
 **JUNSUNG-KIM2546/JUNSUNG-KIM2546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

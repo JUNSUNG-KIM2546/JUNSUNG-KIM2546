@@ -5,7 +5,7 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNSUNG-KIM2546&count_bg=%23216929&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![JunnnMo3o's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNSUNG-KIM2546&include_all_commits=true&theme=merko&show_icons=true$hide_border=true&count_private=true)](https://github.com/JUNSUNG-KIM2546/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNSUNG-KIM2546&langs_count=8)](https://github.com/JUNSUNG-KIM2546/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNSUNG-KIM2546&langs_count=8)](https://github.com/JUNSUNG-KIM2546/github-readme-stats)
  
 <br>
 

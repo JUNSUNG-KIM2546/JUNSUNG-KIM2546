@@ -1,7 +1,7 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JunnnMo3o's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
----
+
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNSUNG-KIM2546&count_bg=%23216929&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![JunnnMo3o's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNSUNG-KIM2546&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/JUNSUNG-KIM2546/github-readme-stats)
@@ -12,7 +12,7 @@
 <div style="display:flex; flex-direction:row;">
     <!--블로그-->
     <a href="https://easyhomputer.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+        <!--<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> -->
     </a>
     <!--노션-->
     <a href="https://www.notion.so/c176868d7fb9485c96993b470e3bb8fa?pvs=4">

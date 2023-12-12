@@ -36,7 +36,7 @@
 ## 🔍 Algorithm ( JAVA ) 🔍
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/JUNSUNG-KIM2546/Algorithm">
-        <img src="https://img.shields.io/badge/Project_BBGG-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Algorithm(백준)-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
     <a href="https://github.com/JUNSUNG-KIM2546/ItNang">
         <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 

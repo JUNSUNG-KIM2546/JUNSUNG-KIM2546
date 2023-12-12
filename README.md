@@ -16,7 +16,7 @@
         <!--<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> -->
     </a>
     <!--노션-->
-    <a href="https://www.notion.so/c176868d7fb9485c96993b470e3bb8fa?pvs=4">
+    <a href="[https://www.notion.so/c176868d7fb9485c96993b470e3bb8fa?pvs=4](https://plausible-hour-332.notion.site/c176868d7fb9485c96993b470e3bb8fa?pvs=4)">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
@@ -26,6 +26,16 @@
 ## 📒 Projects 📒
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/yeowon2/BBGG_prj">
+        <img src="https://img.shields.io/badge/Project_BBGG-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+    </a>
+    <a href="https://github.com/JUNSUNG-KIM2546/ItNang">
+        <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+    </a>
+</div><br>
+
+## 🔍 Algorithm ( JAVA ) 🔍
+<div style="display:flex; flex-direction:row;">
+    <a href="https://github.com/JUNSUNG-KIM2546/Algorithm">
         <img src="https://img.shields.io/badge/Project_BBGG-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
     <a href="https://github.com/JUNSUNG-KIM2546/ItNang">

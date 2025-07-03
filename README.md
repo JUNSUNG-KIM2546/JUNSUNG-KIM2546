@@ -31,6 +31,12 @@
     <a href="https://github.com/JUNSUNG-KIM2546/ItNang">
         <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
+    <a href="https://github.com/JUNSUNG-KIM2546/storyBook">
+        <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+    </a>
+    <a href="https://github.com/JUNSUNG-KIM2546/calorieApp">
+        <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+    </a>
 </div><br>
 
 ## 🔍 Algorithm ( JAVA ) 🔍

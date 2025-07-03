@@ -32,10 +32,10 @@
         <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
     <a href="https://github.com/JUNSUNG-KIM2546/storyBook">
-        <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Project_storyBook-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
     <a href="https://github.com/JUNSUNG-KIM2546/calorieApp">
-        <img src="https://img.shields.io/badge/Project_itnang-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Project_calorieApp-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
 </div><br>
 
